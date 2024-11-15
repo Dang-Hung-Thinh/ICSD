@@ -1,4 +1,5 @@
 #### Some example about HDL
+![image](https://github.com/user-attachments/assets/d53faadc-2bd6-4257-ac80-948018513779)
 ##### Ex1: Control circuit for 8 LEDs gradually lighting up and then dimming down. Adjustable frequency (one button to increase frequency and one button to decrease frequency). One button to allow pause/resume
 * Design blocks:
 * Videos of presentation: [https://studio.youtube.com/playlist/PLyJXr9AKDarB95Qz-5vd-Mf6wXxI7jaq7/edit](https://www.youtube.com/playlist?list=PLyJXr9AKDarB95Qz-5vd-Mf6wXxI7jaq7)
